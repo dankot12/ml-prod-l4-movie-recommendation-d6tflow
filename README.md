@@ -1,2 +1,2 @@
-# ml-prod-l4-movie-recommendation-d6tflow
-Movie recommender ML model built using the dt6flow tool
+# Save time and effort with pipeline automation
+In this example, we're particularly looking at d6tflow which is a tool to build easy, fast, and intuitive workflows. It is also used as a lightweight model to productionize ML models faster.
